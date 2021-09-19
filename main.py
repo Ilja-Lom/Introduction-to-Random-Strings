@@ -1,3 +1,12 @@
+'''
+Author: Ilja Lom...
+GitHub: https://github.com/Ilja-Lom
+Publication-Date: 19/09/2021
+Description: 
+    An algorithm to find the probability of a random string forming a particular DNA sequence, taking into
+    account the GC-content of the random string
+'''
+
 import math #library to process the log command
 
 #initialising the variables
